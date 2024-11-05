@@ -26,13 +26,13 @@ src="https://img.shields.io/github/followers/kemiaojun?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kemiaojun"><img src="https://github-readme-stats.vercel.app/api?username=kemiaojun&show_icons=true&hide=prs,&title_color=3382ed&text_color=facc15&icon_color=0891b2&bg_color=713f12&hide_border=true&show_icons=true" alt="kemiaojun's GitHub stats" /></a>
+<a href="http://www.github.com/Kemiaojun"><img src="https://github-readme-stats.vercel.app/api?username=Kemiaojun&show_icons=true&hide=prs,&title_color=3382ed&text_color=facc15&icon_color=0891b2&bg_color=713f12&hide_border=true&show_icons=true" alt="Kemiaojun's GitHub stats" /></a>
 
-<a href="http://www.github.com/kemiaojun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kemiaojun&stroke=facc15&background=713f12&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/Kemiaojun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kemiaojun&stroke=facc15&background=713f12&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/kemiaojun"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kemiaojun&bg_color=713f12&color=facc15&line=0891b2&point=facc15&area_color=713f12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Kemiaojun"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kemiaojun&bg_color=713f12&color=facc15&line=0891b2&point=facc15&area_color=713f12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/kemiaojun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemiaojun&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=0891b2&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Kemiaojun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemiaojun&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=0891b2&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
