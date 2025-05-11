@@ -1,35 +1,4 @@
-[<img src="./static/hello.png">](https://www.kemiao.online)
-
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
-
-<a href="https://kemiao.online/">
-  <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
-</a>
-  <a href="mailto:me@kemiaosw.top">
-  <img align="center" alt="克喵的邮箱" width="22px" src="./static/icon/email.svg" />
-</a>
-<a href="https://blog-v3.kemeow.top">
-  <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
-</a>
-<a href="https://t.me/KemiaoJun">
-  <img align="center" alt="电报账号" width="22px" src="./static/icon/telegram.svg" />
-</a>
-<!-- <a href="https://xc.liushen.fun">
-  <img align="center" alt="柳神的个人相册" width="22px" src="./static/icon/gallery.svg" />
-</a> -->
-<!-- <a href="https://gitee.com/willow-god">
-  <img align="center" alt="gitee首页" width="22px" src="./static/icon/gitee.svg" />
-</a> -->
-<a href="https://www.github.com/Kemeow815">
-  <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
-</a>
-<a href="https://memos.kemiaosw.top/">
-  <img align="center" src="./static/icon/memos.svg" alt="说说" width="22px" />
-</a>
-
----
-
-### Hello
+### Hello, I am 克喵爱吃卤面 ！
 
 <a href="https://blog-v3.kemeow.top/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
